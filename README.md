@@ -1,12 +1,9 @@
-# Awesome-ai-tools-list
-Awesome AI Tools List
-# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome AI Tools List by [iSEOAI](https://iseoai.com/)
 
-> A curated list of Artificial Intelligence Top Tools
->
+> A curated list of Artificial Intelligence Top Tools.
 > Feel free to contribute and also submit your AI tools on [iSEOAI.com](https://iseoai.com/) for free
 
-Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top generative ai tools and LLMs. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing AI list of products and stay on the edge of innovation.
+Welcome to Awesome AI Tools by iSEOAI! Dive into my curated list of AI list, featuring top generative ai tools and LLMs. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing AI list of products and stay on the edge of innovation.
 
 We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoai.com/contact/). [Subscribe](https://iseoai.com/contact/) for the latest AI news and discover the best AI tools.
 
@@ -29,6 +26,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 ## Editor's Choice
 
 - [iSEO AI – Free AI Tools Directory](https://iseoai.com/) - List of best AI Tools
+- [Best Free AI Tools List - no sign-up or login required](https://github.com/FindSilent/best-free-ai-tools-list)
 - [MagicLight](https://www.magiclight.ai/official-website?code=kydz87me6) - [Review](https://iseoai.com/magiclight-ai/) - Text-to-video platform
 - [Celebify](https://celebifyai.com/?ref=cmb8lsydr0o35lexpnq9i0x60) - [Review](https://iseoai.com/celebify-ai/) - A platform designed to create, customize, and monetize AI-driven virtual influencers.
 - [Blackbox AI](https://blackboxai.partnerlinks.io/h3t5ww2jm0o7) - [Review](https://iseoai.com/blackbox-ai/) - Designed specifically to enhance software development productivity and streamline workflows for developers.
