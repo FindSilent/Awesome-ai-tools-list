@@ -589,4 +589,4 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
 
-Created by [Mahsima Dastan](https://github.com/mahseema)
+Created by [FindSilent](https://github.com/FindSilent)
