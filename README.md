@@ -53,7 +53,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
 - [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
 - [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
-- [GPT-4o](https://openai.com/index/hello-gpt-4o/) - *[Review on Altern](https://iseoai.com/gpt-4o/)* - Advancing cost-efficient intelligence
+- [GPT-4o](https://openai.com/index/hello-gpt-4o/) - *[Review](https://iseoai.com/gpt-4o/)* - Advancing cost-efficient intelligence
 
 
 ### Chatbots
@@ -255,7 +255,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.  
 - [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
-- [AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
+- [AI/ML API](https://aimlapi.com/) - AI/ML API gives developers access to 100+ AI models with one API.
 - [Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer) - Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
 - [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 - [Kiln](https://getkiln.ai) - Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
@@ -575,7 +575,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ## Related Awesome Lists
 
-- [Altern](https://iseoai.com/) - Find Best AI Tools
+- [iSEOAI](https://iseoai.com/) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
