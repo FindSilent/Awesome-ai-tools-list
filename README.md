@@ -59,16 +59,16 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 ### Chatbots
 
 - [ChatGPT](https://chatgpt.com) - *[reviews](https://iseoai.com/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [Bing Chat](https://www.bing.com/chat) - *[reviews](https://iseoai.com/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
-- [Gemini](https://gemini.google.com) - *[reviews](https://iseoai.com/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
-- [Character.AI](https://character.ai/) - *[reviews](https://iseoai.com/character-ai)* - Character.AI lets you create characters and chat to them.
-- [ChatPDF](https://www.chatpdf.com/) - *[reviews](https://iseoai.com/chatpdf)* - Chat with any PDF.
-- [ChatSonic](https://writesonic.com/chat) - *[reviews](https://iseoai.com/chatsonic)* - An AI-powered assistant that enables text and image creation.
-- [Phind](https://www.phind.com/) - *[reviews](https://iseoai.com/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
-- [Tiledesk](https://tiledesk.com/) - *[reviews](https://iseoai.com/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
-- [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
-- [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
-- [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://iseoai.com/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
+- [Bing Chat](https://www.bing.com/chat) - *[reviews](https://iseoai.com/microsoft-bing/)* - A conversational AI language model powered by Microsoft Bing.
+- [Gemini](https://gemini.google.com) - *[reviews](https://iseoai.com/gemini-ai/)* - An experimental AI chatbot by Google, powered by the LaMDA model.
+- [Character.AI](https://character.ai/) - *[reviews](https://iseoai.com/character-ai/)* - Character.AI lets you create characters and chat to them.
+- [ChatPDF](https://www.chatpdf.com/) - *[reviews](https://iseoai.com/chatpdf/)* - Chat with any PDF.
+- [ChatSonic](https://writesonic.com/chat) - *[reviews](https://iseoai.com/writesonic/)* - An AI-powered assistant that enables text and image creation.
+- [Phind](https://www.phind.com/) - *[reviews](https://iseoai.com/phind/)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
+- [Tiledesk](https://tiledesk.com/) - *[reviews](https://iseoai.com/tiledesk/)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+- [AICamp](https://aicamp.so/) - *[reviews](https://iseoai.com/aicamp/)* - ChatGPT for Teams. Designed to consolidate access to multiple AI models for teams and businesses in a secure, collaborative environment.
+- [Gali Chat](https://www.galichat.com/) - *[reviews](https://iseoai.com/galichat/)* - Your 24/7 AI Support Assistant that helps you grow your business!
+- [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://iseoai.com/deepseek/)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
 
