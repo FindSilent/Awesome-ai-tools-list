@@ -95,14 +95,14 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ### Writing assistants
 
-*For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
+*For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://iseoai.com/category/writing-seo-sem/)*
 
-- [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
-- [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
-- [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
-- [wordtune](https://www.wordtune.com/) - Personal writing assistant.
-- [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
-- [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
+- [Jasper](https://www.jasper.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/jasper-ai/) - Create content faster with artificial intelligence.
+- [Compose AI](https://www.compose.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/compose-ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
+- [Rytr](https://rytr.me/?via=iseoai&utm_source=iseoai.com) - [reviews](https://iseoai.com/rytr/) - Rytr is an AI writing assistant that helps you create high-quality content.
+- [wordtune](https://www.wordtune.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/wordtune/) - Personal writing assistant.
+- [HyperWrite](https://hyperwriteai.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/hyperwrite-ai/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
+- [Nexus AI](https://app.mynexusai.com/register?aff=2IDLW9RT20DM&utm_source=iseoai.com) - [reviews](https://iseoai.com/my-nexus-ai/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
