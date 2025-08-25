@@ -41,19 +41,22 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ### Models
 
-> *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)*
-
-- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
-- [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
-- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
-- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
-- [Claude 3](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
-- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
-- [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
-- [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
-- [GPT-4o](https://openai.com/index/hello-gpt-4o/) - *[Review](https://iseoai.com/gpt-4o/)* - Advancing cost-efficient intelligence
+<blockquote data-sourcepos="44:1-44:102">
+<p dir="auto" data-sourcepos="44:3-44:102"><em>More complete list of AI Models: <a href="https://iseoai.com/category/llm-models/" target="_blank" rel="noopener">Awesome AI Models</a></em></p>
+</blockquote>
+<ul dir="auto" data-sourcepos="46:1-58:0">
+ 	<li data-sourcepos="46:1-46:208"><a href="https://openai.com/api/" rel="nofollow">OpenAI API</a> - <a href="https://iseoai.com/openai-api/">How to Get a Free Open API Key</a>: OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.</li>
+ 	<li data-sourcepos="47:1-47:177"><a href="https://ai.google.dev/gemini-api/docs?utm_source=iseoai.com" target="_blank" rel="noopener">Gemini API</a> - <a href="https://iseoai.com/gemini-api/" target="_blank" rel="noopener">How to Get a Free Gemini Key</a>: Access to Google's family of multimodal large language models, including Gemini Ultra, Gemini Pro, and Gemini Nano, serving as the successor to LaMDA and PaLM 2.</li>
+ 	<li data-sourcepos="48:1-48:329"><a href="https://huggingface.co/facebook/opt-350m" target="_blank" rel="nofollow noopener">OPT</a> - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. <a href="https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/" target="_blank" rel="nofollow noopener">Announcement</a>. <a href="https://opt.alpa.ai/" target="_blank" rel="nofollow noopener">OPT-175B text generation</a> hosted by Alpa.</li>
+ 	<li data-sourcepos="49:1-49:209"><a href="https://huggingface.co/docs/transformers/model_doc/bloom" target="_blank" rel="nofollow noopener">Bloom</a> - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource</li>
+ 	<li data-sourcepos="50:1-50:156"><a href="https://www.llama.com/?utm_source=iseoai.com" rel="nofollow">LLaMA</a> - <a href="https://iseoai.com/llama/" target="_blank" rel="noopener">Review</a>: A foundational, 65-billion-parameter large language model by Meta. #opensource</li>
+ 	<li data-sourcepos="51:1-51:117"><a href="https://www.llama.com/llama2/?utm_source=iseoai.com" target="_blank" rel="nofollow noopener">Llama 2</a> - <a href="https://iseoai.com/llama-2/" target="_blank" rel="noopener">Review</a>: The next generation of Meta's open source large language model. #opensource</li>
+ 	<li data-sourcepos="52:1-52:82"><a href="https://claude.ai/?utm_source=iseoai.com" target="_blank" rel="nofollow noopener">Claude</a> - <a href="https://iseoai.com/claude-ai/" target="_blank" rel="noopener">Review</a>: Talk to Claude, an AI assistant from Anthropic.</li>
+ 	<li data-sourcepos="53:1-53:165"><a href="https://lmsys.org/blog/2023-03-30-vicuna/" target="_blank" rel="nofollow noopener">Vicuna-13B</a> - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.</li>
+ 	<li data-sourcepos="54:1-54:104"><a href="https://huggingface.co/stabilityai/StableBeluga1-Delta" rel="nofollow">Stable Beluga</a> - A finetuned LLamma 65B model</li>
+ 	<li data-sourcepos="55:1-55:101"><a href="https://huggingface.co/stabilityai/StableBeluga2" rel="nofollow">Stable Beluga 2</a> - A finetuned LLamma2 70B model</li>
+ 	<li data-sourcepos="56:1-58:0"><a href="https://openai.com/index/hello-gpt-4o/?utm_source=iseoai.com" target="_blank" rel="nofollow noopener">GPT-4o</a> - <em><a href="https://iseoai.com/gpt-4o/" rel="nofollow">Review</a></em> - Advancing cost-efficient intelligence</li>
+</ul>
 
 
 ### Chatbots
