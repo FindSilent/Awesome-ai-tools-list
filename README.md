@@ -72,12 +72,12 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [AICamp](https://aicamp.so/) - *[reviews](https://iseoai.com/aicamp/)* - ChatGPT for Teams. Designed to consolidate access to multiple AI models for teams and businesses in a secure, collaborative environment.
 - [Gali Chat](https://www.galichat.com/) - *[reviews](https://iseoai.com/galichat/)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://iseoai.com/deepseek/)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
-- [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [dmwithme](https://dmwithme.com) - [reviews](https://iseoai.com/dmwithme/) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
 
 ### Search engines
 
-- [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
+- [Kazimir.ai](https://kazimir.ai/) - [reviews](https://iseoai.com/kazimir-ai/)- A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
