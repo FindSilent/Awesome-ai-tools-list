@@ -77,16 +77,16 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ### Search engines
 
-- [Kazimir.ai](https://kazimir.ai/) - [reviews](https://iseoai.com/kazimir-ai/)- A search engine designed to search AI-generated images. 
-- [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
-- [Metaphor](https://metaphor.systems/) - Language model powered search.
-- [Phind](https://phind.com/) - AI-based search engine.
-- [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
-- [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
-- [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
-- [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
-- [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
-- [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [Kazimir.ai](https://kazimir.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/kazimir-ai/)- A search engine designed to search AI-generated images. 
+- [Perplexity AI](https://www.perplexity.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/perplexity-ai/) - AI powered search tools.
+- [Exa AI](https://exa.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/exa-ai/) - Language model powered search.
+- [Phind](https://phind.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/phind/) - AI-based search engine.
+- [You.com](https://you.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/you-ai/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
+- [Komo AI](https://komo.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/komo-ai/) - An AI based Search engine which responses quick and short answers.
+- [Andi AI](https://andisearch.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/andi-ai/) - provide a smarter, faster, and more private search experience, suitable for professionals, researchers, and everyday users seeking accurate, well-sourced information in a conversational format.
+- [MemFree](https://www.memfree.me/?utm_source=iseoai.com) - [review](https://iseoai.com/memfree/)- Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+- [Refinder AI](https://refinder.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/refinder/) - AI-powered universal search and assistant for work
+- [Agentset.ai](https://agentset.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/agentset/)- Open-source local Semantic Search + RAG for your data
 
 ### Local search engines
 
