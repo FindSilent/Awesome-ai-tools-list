@@ -103,30 +103,24 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [wordtune](https://www.wordtune.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/wordtune/) - Personal writing assistant.
 - [HyperWrite](https://hyperwriteai.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/hyperwrite-ai/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
 - [Nexus AI](https://app.mynexusai.com/register?aff=2IDLW9RT20DM&utm_source=iseoai.com) - [reviews](https://iseoai.com/my-nexus-ai/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
-- [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
-- [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
-- [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
-- [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
-- [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
-- [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
-- [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
-- [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
-- [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
-- [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
-- [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
-- [RapidTextAI](https://app.rapidtextai.com/) - Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.
-- [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
-- [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
-- [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
-- [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
-- [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
-- [Trolly.ai](https://trolly.ai/) - Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
-- [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
-- [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
-- [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
-- [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
-- [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
-- [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
+- [Moonbeam](https://www.gomoonbeam.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/moonbeam/) - Better blogs in a fraction of the time.
+- [copy.ai](https://www.copy.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/copy-ai/) - Write better marketing copy and content with AI.
+- [Anyword](https://anyword.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/anyword/) - Anyword's AI writing assistant generates effective copy for anyone.
+- [Hypotenuse AI](https://www.hypotenuse.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/hypotenuse/)- Turn a few keywords into original, insightful articles, product descriptions and social media copy.
+- [Lavender](https://www.lavender.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/lavender/) - Lavender email assistant helps you get more replies in less time.
+- [Lex](https://lex.page/?utm_source=iseoai.com) - [reviews](https://iseoai.com/lex/) - A word processor with artificial intelligence baked in, so you can write faster.
+- [Jenni](https://jenni.ai/?utm_source=iseoai.com) - [reviews](https://jenni.ai/?utm_source=iseoai.com) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
+- [QuillBot](https://quillbot.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/quillbot/)- AI-powered paraphrasing tool.
+- [Postwise](https://postwise.ai/?_get=iseo22&utm_source=iseoai.com) - [reviews](https://iseoai.com/postwise/) - Write tweets, schedule posts and grow your following using AI.
+- [RapidTextAI](https://app.rapidtextai.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/rapidtext-ai/) - Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.
+- [Copysmith](https://copysmith.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/copysmith/) - AI content creation solution for Enterprise & eCommerce.
+- [Yomu](https://www.yomu.ai/?via=iseoai&utm_source=iseoai.com) - [reviews](https://iseoai.com/yomu-ai/) - AI writing assistant for students and academics.
+- [Quick Creator](https://quickcreator.io/?utm_source=iseoai.com) - [reviews](https://iseoai.com/quickcreator/) - SEO-Optimized Blog platform powered by AI.
+- [Telborg](https://telborg.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/telborg/) - Write a high-quality first draft on any Climate topic in minutes
+- [Netus](https://netus.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/netus/) - Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
+- [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website.
+- [DeepL Write](https://www.deepl.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/deepl/) - AI writing tool that improves written communication.
+- [GPTLocalhost](https://gptlocalhost.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/gptlocalhost/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
 
 
 ### ChatGPT extensions
