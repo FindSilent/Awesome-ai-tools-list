@@ -118,7 +118,6 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Quick Creator](https://quickcreator.io/?utm_source=iseoai.com) - [reviews](https://iseoai.com/quickcreator/) - SEO-Optimized Blog platform powered by AI.
 - [Telborg](https://telborg.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/telborg/) - Write a high-quality first draft on any Climate topic in minutes
 - [Netus](https://netus.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/netus/) - Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
-- [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website.
 - [DeepL Write](https://www.deepl.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/deepl/) - AI writing tool that improves written communication.
 - [GPTLocalhost](https://gptlocalhost.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/gptlocalhost/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
 
