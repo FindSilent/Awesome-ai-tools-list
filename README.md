@@ -124,20 +124,18 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ### ChatGPT extensions
 
-- [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
-- [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
-- [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
-- [YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
-- [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
-- [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - Display ChatGPT response alongside Google, Bing, and DuckDuckGo search results.
-- [ShareGPT](https://sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
-- [Merlin](https://merlin.foyer.work/) - ChatGPT Plus extension on all websites.
-- [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
+- [Gist AI](https://www.gistai.tech/?utm_source=iseoai.com) - [reviews](https://iseoai.com/gist-ai/) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
+- [WebChatGPT](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn?utm_source=iseoai.com) - [reviews](https://iseoai.com/webchatgpt/) - Augment your ChatGPT prompts with relevant results from the web.
+- [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654?utm_source=iseoai.com) - [reviews](https://iseoai.com/gpt-for-sheets-and-docs/) - ChatGPT extension for Google Sheets and Google Docs.
+- [YouTube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli?utm_source=iseoai.com) - [reviews](https://iseoai.com/youtube-summary/) - Use ChatGPT to summarize YouTube videos.
+- [ChatGPT Prompt Genius](https://chromewebstore.google.com/detail/ai-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo?utm_source=iseoai.com) - [reviews](https://iseoai.com/ai-prompt-genius/) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
+- [Merlin](https://www.getmerlin.in/chat?ref=ndk2ytk&utm_source=iseoai.com) - [reviews](https://iseoai.com/merlin-ai/) - ChatGPT Plus extension on all websites.
+- [ChatGPT Writer](https://chatgptwriter.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/chatgpt-writer/) - Generate entire emails and messages using ChatGPT AI.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
-- [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
-- [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
-- [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
-- [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
+- [editGPT](https://editgpt.app/?utm_source=iseoai.com) - [reviews](https://iseoai.com/editgpt/) - Easily proofread, edit, and track changes to your content in chatGPT.
+- [Chatbot UI](https://www.chatbotui.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/chatbot-ui/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
+- [Forefront](https://forefront.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/forefront/) - A Better ChatGPT Experience.
+- [AI Character for GPT](https://chromewebstore.google.com/detail/AI%20Character%20for%20GPT/daoeioifimkjegafelcaljboknjkkohh?utm_source=iseoai.com) - [reviews](https://iseoai.com/ai-character-for-gpt/) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
 ### Productivity
 
