@@ -457,6 +457,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code plugin providing SEO and Google Ads skills. Meta tags, schema markup, keyword bids, and CMS content pushes.
 
 
 ### Phone Calls
