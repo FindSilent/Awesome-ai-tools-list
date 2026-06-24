@@ -328,6 +328,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
+- [ClearCrowds](https://www.clearcrowds.com/) - AI photo cleanup and editing app for removing crowds, objects, clutter, glasses, and other distractions from images.
 - [PhotoGuruAI](https://photoguruai.com/) - Create professional AI Headshots in various styles.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
