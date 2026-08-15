@@ -80,6 +80,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Kazimir.ai](https://kazimir.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/kazimir-ai/)- A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/perplexity-ai/) - AI powered search tools.
 - [Exa AI](https://exa.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/exa-ai/) - Language model powered search.
+- [IdeaHunter](https://ideahunter.today/) - AI research for finding demand-backed app and micro-SaaS ideas.
 - [Phind](https://phind.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/phind/) - AI-based search engine.
 - [You.com](https://you.com/?utm_source=iseoai.com) - [reviews](https://iseoai.com/you-ai/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo AI](https://komo.ai/?utm_source=iseoai.com) - [reviews](https://iseoai.com/komo-ai/) - An AI based Search engine which responses quick and short answers.
