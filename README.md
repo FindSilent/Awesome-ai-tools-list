@@ -299,6 +299,8 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ## Image
 
+- [Raphael AI](https://raphael.app) — Free unlimited AI image generator from text prompts.
+
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
 
 
