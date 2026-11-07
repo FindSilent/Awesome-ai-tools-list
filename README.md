@@ -385,6 +385,8 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 ## Video
 
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
+- [Cyanvid](https://cyanvid.com/?utm_source=findsilent-awesome-ai-tools-list&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images; credit quotes before generate.
+- [Barz Studio](https://barzvideo.com/?utm_source=findsilent-awesome-ai-tools-list&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
