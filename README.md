@@ -384,6 +384,8 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ## Video
 
+- [ReelAI](https://tryreelai.com/) - Create short AI videos from photos using preset effects; paid.
+
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
