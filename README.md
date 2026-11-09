@@ -20,7 +20,6 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
-- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games, and MCP servers by job.
 - [👩‍🏫 Learning resources](#learning-resources)
 
 
@@ -488,6 +487,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 
 ## Other
 
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games, and MCP servers by job.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
