@@ -20,6 +20,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games, and MCP servers by job.
 - [👩‍🏫 Learning resources](#learning-resources)
 
 
