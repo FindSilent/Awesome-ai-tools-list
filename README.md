@@ -73,6 +73,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Gali Chat](https://www.galichat.com/) - *[reviews](https://iseoai.com/galichat/)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://iseoai.com/deepseek/)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - [reviews](https://iseoai.com/dmwithme/) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [Sammi](https://sammiai.app/) - Android fictional-character text and voice chat, character customization, and creative roleplay.
 
 
 ### Search engines
