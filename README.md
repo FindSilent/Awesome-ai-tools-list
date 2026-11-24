@@ -138,7 +138,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [AI Character for GPT](https://chromewebstore.google.com/detail/AI%20Character%20for%20GPT/daoeioifimkjegafelcaljboknjkkohh?utm_source=iseoai.com) - [reviews](https://iseoai.com/ai-character-for-gpt/) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
 ### Productivity
-
+- [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) - Free Chrome and Edge browser extension that continues ChatGPT responses after a user-configured delay, with per-tab controls and context handoff.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
